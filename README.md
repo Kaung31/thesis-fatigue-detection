@@ -53,12 +53,4 @@ This project implements a real-time driver fatigue detection system using comput
 
 The system calculates **Eye Aspect Ratio (EAR)** and **Mouth Aspect Ratio (MAR)** from MediaPipe's 3D facial landmarks. These ratios, combined with blink duration, yawn duration, and head pose data, feed into a classification logic to determine fatigue. Dynamic thresholds adjust for head movements and glasses, while adaptive brightness handles varying lighting conditions.
 
-## License
 
-[YOUR TEXT HERE: e.g., "This project is licensed under the MIT License." or "MIT License - see the LICENSE.md file for details."]
-
-## Contact
-
-[YOUR TEXT HERE: e.g., Your Name - your.email@example.com - LinkedIn Profile (Optional)]
-
-Project Link: [https://github.com/YOUR_USERNAME/drivers-fatigue-detection](https://github.com/YOUR_USERNAME/drivers-fatigue-detection)
